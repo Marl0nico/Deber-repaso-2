@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2460268d-5ea4-47f5-9c72-af2e146e81db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/Bases vehiculos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/src/Busqueda.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/src/Busqueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/src/Vehiculos.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bases vehiculos/src/Vehiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/Buscador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/src/form0.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buscador/src/form0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase virtual/Clase virtual.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase virtual/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase virtual/src/org/example/Figuras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/Conexion BD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/src/Buscador.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/src/Buscador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/src/form1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion BD/src/form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/Deber repaso 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 1/src/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deber repaso 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estudiante.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber repaso 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/Deber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deber1/src/Videojuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/Ejercicio en clase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio en clase/src/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/Examen1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Pasajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Ruta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Sistema_de_transportes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen1/src/Sistema_Transporte/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Figuras/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Figuras/src/Cuadriláteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Figuras/src/Irregulares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/Practica_examen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica_examen/src/Cuenta_Bancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/Ventanas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/src/forma2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ventanas/src/forma2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figuras/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Figuras/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2j57QPHbYAurc8E8k2igXjzwLxL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MY HP/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/MY HP/IdeaProjects/Deber repaso 2/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2460268d-5ea4-47f5-9c72-af2e146e81db" name="Changes" comment="" />
+      <created>1720665067718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720665067718</updated>
+      <workItem from="1720665068791" duration="7067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
